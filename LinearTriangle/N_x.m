@@ -1,5 +1,5 @@
 function out = N_x()
-% Note that this cannot return a vector values for the purpose of 
+
 N11=@(eta,zeta) -1;
 N12=@(eta,zeta) -1;
 
